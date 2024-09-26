@@ -1,5 +1,7 @@
 # Synthetic Sparsity
 
+<img width="1019" alt="Screenshot 2024-09-15 at 22 56 26" src="https://github.com/user-attachments/assets/87bb19e3-a991-4dad-8033-63a4c189933b">
+
 Calendly is good, but there are excellent reasons you don’t necessarily want to over-expose your availability.
 
 Take the example of perhaps wanting an investor to believe you’re in high demand and that they’re lucky to have your time. It changes how they approach the conversation and drives your confidence.
